@@ -2,15 +2,6 @@
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
   "creatorBuild" : "8403",
   "files" : {
-    "\/pages\/index.kit" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/pages\/index.kit",
-      "outputAbbreviatedPath" : "\/index.html",
-      "fileType" : 65536
-    },
     "\/scss\/tools\/_gridditor.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -23,18 +14,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/scss\/seeds\/_base.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/seeds\/_base.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/scss\/css\/_base.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
     "\/scss\/water\/_transforms.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -44,6 +23,18 @@
       "outputStyle" : 2,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/scss\/css\/_transforms.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/scss\/seeds\/_base.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/seeds\/_base.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/scss\/css\/_base.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -152,6 +143,18 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/scss\/water\/_states.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/water\/_states.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/scss\/css\/_states.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
     "\/scss\/plants\/_navigation.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -164,18 +167,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/scss\/water\/_transitions.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/water\/_transitions.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/scss\/css\/_transitions.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
     "\/partials\/_tail.kit" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -184,18 +175,6 @@
       "inputAbbreviatedPath" : "\/partials\/_tail.kit",
       "outputAbbreviatedPath" : "\/_tail.html",
       "fileType" : 65536
-    },
-    "\/scss\/style.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 1,
-      "inputAbbreviatedPath" : "\/scss\/style.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/style.css",
-      "fileType" : 4,
-      "debugStyle" : 0
     },
     "\/scss\/tools\/_debug.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -206,6 +185,18 @@
       "outputStyle" : 2,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/scss\/css\/_debug.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/scss\/water\/_transitions.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/water\/_transitions.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/scss\/css\/_transitions.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -243,18 +234,6 @@
       "outputAbbreviatedPath" : "\/assets\/js\/vendor\/modernizr.dev-ck.js",
       "fileType" : 64
     },
-    "\/scss\/water\/_states.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/water\/_states.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/scss\/css\/_states.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
     "\/partials\/_head.kit" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -263,6 +242,18 @@
       "inputAbbreviatedPath" : "\/partials\/_head.kit",
       "outputAbbreviatedPath" : "\/_head.html",
       "fileType" : 65536
+    },
+    "\/scss\/style.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 1,
+      "inputAbbreviatedPath" : "\/scss\/style.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/css\/style.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/index.html" : {
       "ignoreWasSetByUser" : 0,
@@ -339,13 +330,13 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/pages\/ratio.kit" : {
+    "\/pages\/index.kit" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/pages\/ratio.kit",
-      "outputAbbreviatedPath" : "\/ratio.html",
+      "outputPathIsSetByUser" : 1,
+      "inputAbbreviatedPath" : "\/pages\/index.kit",
+      "outputAbbreviatedPath" : "\/index.html",
       "fileType" : 65536
     }
   },
@@ -528,7 +519,7 @@
   "projectAttributes" : {
     "bourbonEnabled" : 0,
     "displayValue" : "_protokit",
-    "displayValueWasSetByUser" : 0,
+    "displayValueWasSetByUser" : 1,
     "compassEnabled" : 0
   }
 }
