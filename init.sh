@@ -37,7 +37,7 @@ success "Installing Prefixfree..."
 wget -O assets/js/vendor/prefixfree.js https://raw.github.com/LeaVerou/prefixfree/gh-pages/prefixfree.min.js
 
 # Get Eucalypt's latest version
-success "Installing Prefixfree..."
+success "Installing Eucalypt..."
 git clone git://github.com/crloscstillo/eucalypt.git scss
 
 # Ready

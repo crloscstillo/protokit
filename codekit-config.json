@@ -2,6 +2,15 @@
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
   "creatorBuild" : "8403",
   "files" : {
+    "\/pages\/index.kit" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 1,
+      "inputAbbreviatedPath" : "\/pages\/index.kit",
+      "outputAbbreviatedPath" : "\/index.html",
+      "fileType" : 65536
+    },
     "\/scss\/plants\/_block-grid.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -11,18 +20,6 @@
       "outputStyle" : 2,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/scss\/css\/_block-grid.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/scss\/tools\/_gridditor.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/tools\/_gridditor.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/scss\/css\/_gridditor.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -110,15 +107,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/partials\/_header.kit" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/partials\/_header.kit",
-      "outputAbbreviatedPath" : "\/_header.html",
-      "fileType" : 65536
-    },
     "\/scss\/tools\/_layout.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -128,6 +116,27 @@
       "outputStyle" : 2,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/scss\/css\/_layout.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/partials\/_header.kit" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/partials\/_header.kit",
+      "outputAbbreviatedPath" : "\/_header.html",
+      "fileType" : 65536
+    },
+    "\/scss\/seeds\/_lists.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/seeds\/_lists.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/scss\/css\/_lists.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -143,52 +152,17 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/scss\/seeds\/_lists.scss" : {
+    "\/scss\/plants\/_navigation.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/seeds\/_lists.scss",
+      "inputAbbreviatedPath" : "\/scss\/plants\/_navigation.scss",
       "outputStyle" : 2,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/scss\/css\/_lists.css",
+      "outputAbbreviatedPath" : "\/scss\/css\/_navigation.css",
       "fileType" : 4,
       "debugStyle" : 0
-    },
-    "\/scss\/water\/_states.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/water\/_states.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/scss\/css\/_states.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/scss\/water\/_transitions.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/water\/_transitions.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/scss\/css\/_transitions.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/assets\/js\/vendor\/modernizr.dev.js" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/js\/vendor\/modernizr.dev.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/js\/vendor\/modernizr.dev-ck.js",
-      "fileType" : 64
     },
     "\/scss\/style.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -202,15 +176,36 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/scss\/plants\/_navigation.scss" : {
+    "\/partials\/_tail.kit" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/plants\/_navigation.scss",
+      "inputAbbreviatedPath" : "\/partials\/_tail.kit",
+      "outputAbbreviatedPath" : "\/_tail.html",
+      "fileType" : 65536
+    },
+    "\/scss\/tools\/_debug.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/tools\/_debug.scss",
       "outputStyle" : 2,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/scss\/css\/_navigation.css",
+      "outputAbbreviatedPath" : "\/scss\/css\/_debug.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/scss\/water\/_transitions.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/water\/_transitions.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/scss\/css\/_transitions.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -237,15 +232,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/scss\/tools\/_debug.scss" : {
+    "\/scss\/water\/_states.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/tools\/_debug.scss",
+      "inputAbbreviatedPath" : "\/scss\/water\/_states.scss",
       "outputStyle" : 2,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/scss\/css\/_debug.css",
+      "outputAbbreviatedPath" : "\/scss\/css\/_states.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -258,14 +253,16 @@
       "outputAbbreviatedPath" : "\/_head.html",
       "fileType" : 65536
     },
-    "\/partials\/_tail.kit" : {
-      "ignoreWasSetByUser" : 0,
+    "\/assets\/js\/vendor\/modernizr.dev.js" : {
+      "ignoreWasSetByUser" : 1,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/partials\/_tail.kit",
-      "outputAbbreviatedPath" : "\/_tail.html",
-      "fileType" : 65536
+      "inputAbbreviatedPath" : "\/assets\/js\/vendor\/modernizr.dev.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/assets\/js\/vendor\/modernizr.dev-ck.js",
+      "fileType" : 64
     },
     "\/index.html" : {
       "ignoreWasSetByUser" : 0,
@@ -288,15 +285,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/scss\/tools\/_css3.scss" : {
+    "\/scss\/tools\/_gridditor.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/tools\/_css3.scss",
+      "inputAbbreviatedPath" : "\/scss\/tools\/_gridditor.scss",
       "outputStyle" : 2,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/scss\/css\/_css3.css",
+      "outputAbbreviatedPath" : "\/scss\/css\/_gridditor.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -309,14 +306,17 @@
       "outputAbbreviatedPath" : "\/_footer.html",
       "fileType" : 65536
     },
-    "\/pages\/index.kit" : {
+    "\/scss\/tools\/_css3.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
-      "outputPathIsSetByUser" : 1,
-      "inputAbbreviatedPath" : "\/pages\/index.kit",
-      "outputAbbreviatedPath" : "\/index.html",
-      "fileType" : 65536
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/tools\/_css3.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/scss\/css\/_css3.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/scss\/seeds\/_forms.scss" : {
       "ignoreWasSetByUser" : 0,
