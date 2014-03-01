@@ -42,6 +42,15 @@
       "outputAbbreviatedPath" : "\/assets\/js\/vendor\/modernizr.dev-ck.js",
       "fileType" : 64
     },
+    "\/partials\/_head.kit" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/partials\/_head.kit",
+      "outputAbbreviatedPath" : "\/_head.html",
+      "fileType" : 65536
+    },
     "\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -60,6 +69,15 @@
       "outputAbbreviatedPath" : "\/index.html",
       "fileType" : 65536
     },
+    "\/partials\/_header.kit" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/partials\/_header.kit",
+      "outputAbbreviatedPath" : "\/_header.html",
+      "fileType" : 65536
+    },
     "\/assets\/js\/script.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -70,24 +88,6 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/assets\/js\/script-ck.js",
       "fileType" : 64
-    },
-    "\/partials\/_header.kit" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/partials\/_header.kit",
-      "outputAbbreviatedPath" : "\/_header.html",
-      "fileType" : 65536
-    },
-    "\/partials\/_head.kit" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/partials\/_head.kit",
-      "outputAbbreviatedPath" : "\/_head.html",
-      "fileType" : 65536
     },
     "\/assets\/css\/style.css" : {
       "ignoreWasSetByUser" : 0,
